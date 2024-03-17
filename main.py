@@ -6,7 +6,6 @@ def validaEmail(VITOR):
     except: return False
 
 
-
 ### ESCOPO EXTERNO - GLOBAL
 agenda = []
 for i in range(1, 11):
