@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 /.venv/*
 /.idea/*
+=======
+./.venv/*
+./.idea/*
+>>>>>>> d0cfe9b1f86ff55d34a3bdc25f80d2b0545e9705
